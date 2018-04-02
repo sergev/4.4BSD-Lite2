@@ -1,6 +1,6 @@
 # 4.4BSD-Lite2, the last Unix from Berkeley
 
-The story: https://en.wikipedia.org/wiki/Berkeley_Software_Distribution#4.4BSD_and_descendants
+The story: https://en.wikipedia.org/wiki/History_of_the_Berkeley_Software_Distribution#4.4BSD_and_descendants
 
 Downloaded from: ftp://alge.anart.no/pub/BSD/4.4BSD-Lite/4.4BSD-Lite2.tar.gz
 
